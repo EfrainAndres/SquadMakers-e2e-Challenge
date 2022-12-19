@@ -1,0 +1,273 @@
+[
+{
+  "elements": [
+    {
+      "keyword": "Background",
+      "location": "features/saucedemo.feature:3",
+      "name": "",
+      "steps": [
+        {
+          "keyword": "Given",
+          "location": "features/saucedemo.feature:4",
+          "name": "I am on the Saucelabs portal",
+          "step_type": "given"
+        },
+        {
+          "keyword": "And",
+          "location": "features/saucedemo.feature:5",
+          "name": "I have provided my credentials",
+          "step_type": "given"
+        },
+        {
+          "keyword": "When",
+          "location": "features/saucedemo.feature:6",
+          "name": "I click on the Login button",
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/saucedemo.feature:7",
+          "name": "I am successfully logged in and the inventory page is opened",
+          "step_type": "then"
+        }
+      ],
+      "type": "background"
+    },
+    {
+      "keyword": "Scenario",
+      "location": "features/saucedemo.feature:9",
+      "name": "Buy a few articles from the inventory page",
+      "status": "passed",
+      "steps": [
+        {
+          "keyword": "Given",
+          "location": "features/saucedemo.feature:4",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/SauceDemoSteps.py:7"
+          },
+          "name": "I am on the Saucelabs portal",
+          "result": {
+            "duration": 3.7625675201416016,
+            "status": "passed"
+          },
+          "step_type": "given"
+        },
+        {
+          "keyword": "And",
+          "location": "features/saucedemo.feature:5",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/SauceDemoSteps.py:19"
+          },
+          "name": "I have provided my credentials",
+          "result": {
+            "duration": 2.334980010986328,
+            "status": "passed"
+          },
+          "step_type": "given"
+        },
+        {
+          "keyword": "When",
+          "location": "features/saucedemo.feature:6",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/SauceDemoSteps.py:27"
+          },
+          "name": "I click on the Login button",
+          "result": {
+            "duration": 2.1209299564361572,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/saucedemo.feature:7",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/SauceDemoSteps.py:35"
+          },
+          "name": "I am successfully logged in and the inventory page is opened",
+          "result": {
+            "duration": 2.0304946899414062,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "When",
+          "location": "features/saucedemo.feature:10",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/SauceDemoSteps.py:43"
+          },
+          "name": "I add the first two elements to the cart",
+          "result": {
+            "duration": 2.136758804321289,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/saucedemo.feature:11",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/SauceDemoSteps.py:52"
+          },
+          "name": "I go to the cart and check out the added items",
+          "result": {
+            "duration": 4.135983943939209,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "And",
+          "location": "features/saucedemo.feature:12",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/SauceDemoSteps.py:62"
+          },
+          "name": "I enter my payment information",
+          "result": {
+            "duration": 4.862011909484863,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "When",
+          "location": "features/saucedemo.feature:13",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/SauceDemoSteps.py:70"
+          },
+          "name": "I finish the checkout process",
+          "result": {
+            "duration": 2.2531158924102783,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/saucedemo.feature:14",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/SauceDemoSteps.py:78"
+          },
+          "name": "I receive a confirmation message thanking me for my purchase",
+          "result": {
+            "duration": 0.13158392906188965,
+            "status": "passed"
+          },
+          "step_type": "then"
+        }
+      ],
+      "tags": [],
+      "type": "scenario"
+    },
+    {
+      "keyword": "Scenario",
+      "location": "features/saucedemo.feature:16",
+      "name": "Log out of the system",
+      "status": "passed",
+      "steps": [
+        {
+          "keyword": "Given",
+          "location": "features/saucedemo.feature:4",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/SauceDemoSteps.py:7"
+          },
+          "name": "I am on the Saucelabs portal",
+          "result": {
+            "duration": 3.4978322982788086,
+            "status": "passed"
+          },
+          "step_type": "given"
+        },
+        {
+          "keyword": "And",
+          "location": "features/saucedemo.feature:5",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/SauceDemoSteps.py:19"
+          },
+          "name": "I have provided my credentials",
+          "result": {
+            "duration": 2.41247820854187,
+            "status": "passed"
+          },
+          "step_type": "given"
+        },
+        {
+          "keyword": "When",
+          "location": "features/saucedemo.feature:6",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/SauceDemoSteps.py:27"
+          },
+          "name": "I click on the Login button",
+          "result": {
+            "duration": 2.1118381023406982,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/saucedemo.feature:7",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/SauceDemoSteps.py:35"
+          },
+          "name": "I am successfully logged in and the inventory page is opened",
+          "result": {
+            "duration": 2.0076069831848145,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "When",
+          "location": "features/saucedemo.feature:17",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/SauceDemoSteps.py:82"
+          },
+          "name": "I click on the hamburger menu and select the log out link",
+          "result": {
+            "duration": 4.173491477966309,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/saucedemo.feature:18",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/SauceDemoSteps.py:87"
+          },
+          "name": "I am logged out of the system",
+          "result": {
+            "duration": 0.000989675521850586,
+            "status": "passed"
+          },
+          "step_type": "then"
+        }
+      ],
+      "tags": [],
+      "type": "scenario"
+    }
+  ],
+  "keyword": "Feature",
+  "location": "features/saucedemo.feature:1",
+  "name": "Saucelabs demo End to end",
+  "status": "passed",
+  "tags": []
+}
+]
