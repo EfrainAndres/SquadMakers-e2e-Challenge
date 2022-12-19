@@ -51,3 +51,5 @@ behave
 ```
 behave -f html -o report/behave-report.html
 ```
+
+![image](https://user-images.githubusercontent.com/20568951/208354238-7c241df3-d721-4a5b-baad-439fbe4fa633.png)
