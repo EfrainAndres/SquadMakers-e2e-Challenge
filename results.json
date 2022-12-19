@@ -48,7 +48,7 @@
           },
           "name": "I am on the Saucelabs portal",
           "result": {
-            "duration": 3.7625675201416016,
+            "duration": 2.1494061946868896,
             "status": "passed"
           },
           "step_type": "given"
@@ -62,7 +62,7 @@
           },
           "name": "I have provided my credentials",
           "result": {
-            "duration": 2.334980010986328,
+            "duration": 2.2919702529907227,
             "status": "passed"
           },
           "step_type": "given"
@@ -76,7 +76,7 @@
           },
           "name": "I click on the Login button",
           "result": {
-            "duration": 2.1209299564361572,
+            "duration": 2.2894344329833984,
             "status": "passed"
           },
           "step_type": "when"
@@ -90,7 +90,7 @@
           },
           "name": "I am successfully logged in and the inventory page is opened",
           "result": {
-            "duration": 2.0304946899414062,
+            "duration": 2.011108875274658,
             "status": "passed"
           },
           "step_type": "then"
@@ -104,7 +104,7 @@
           },
           "name": "I add the first two elements to the cart",
           "result": {
-            "duration": 2.136758804321289,
+            "duration": 2.1771700382232666,
             "status": "passed"
           },
           "step_type": "when"
@@ -118,7 +118,7 @@
           },
           "name": "I go to the cart and check out the added items",
           "result": {
-            "duration": 4.135983943939209,
+            "duration": 4.252696990966797,
             "status": "passed"
           },
           "step_type": "when"
@@ -132,7 +132,7 @@
           },
           "name": "I enter my payment information",
           "result": {
-            "duration": 4.862011909484863,
+            "duration": 4.6234962940216064,
             "status": "passed"
           },
           "step_type": "when"
@@ -146,7 +146,7 @@
           },
           "name": "I finish the checkout process",
           "result": {
-            "duration": 2.2531158924102783,
+            "duration": 2.1304383277893066,
             "status": "passed"
           },
           "step_type": "when"
@@ -160,7 +160,7 @@
           },
           "name": "I receive a confirmation message thanking me for my purchase",
           "result": {
-            "duration": 0.13158392906188965,
+            "duration": 0.11404585838317871,
             "status": "passed"
           },
           "step_type": "then"
@@ -184,7 +184,7 @@
           },
           "name": "I am on the Saucelabs portal",
           "result": {
-            "duration": 3.4978322982788086,
+            "duration": 2.640523910522461,
             "status": "passed"
           },
           "step_type": "given"
@@ -198,7 +198,7 @@
           },
           "name": "I have provided my credentials",
           "result": {
-            "duration": 2.41247820854187,
+            "duration": 2.2734181880950928,
             "status": "passed"
           },
           "step_type": "given"
@@ -212,7 +212,7 @@
           },
           "name": "I click on the Login button",
           "result": {
-            "duration": 2.1118381023406982,
+            "duration": 2.117802143096924,
             "status": "passed"
           },
           "step_type": "when"
@@ -226,7 +226,7 @@
           },
           "name": "I am successfully logged in and the inventory page is opened",
           "result": {
-            "duration": 2.0076069831848145,
+            "duration": 2.0200746059417725,
             "status": "passed"
           },
           "step_type": "then"
@@ -240,7 +240,7 @@
           },
           "name": "I click on the hamburger menu and select the log out link",
           "result": {
-            "duration": 4.173491477966309,
+            "duration": 4.16848611831665,
             "status": "passed"
           },
           "step_type": "when"
@@ -254,7 +254,7 @@
           },
           "name": "I am logged out of the system",
           "result": {
-            "duration": 0.000989675521850586,
+            "duration": 0.0007579326629638672,
             "status": "passed"
           },
           "step_type": "then"

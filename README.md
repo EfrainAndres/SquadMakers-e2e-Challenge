@@ -46,3 +46,8 @@ Running the tests:
 ```
 behave
 ```
+
+- We can run the tests and generate the html report
+```
+behave -f html -o report/behave-report.html
+```
