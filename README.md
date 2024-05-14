@@ -1,21 +1,21 @@
 # SquadMakers-e2e-Challenge
 
-¿En que consiste el reto?
+What is the challenge?
 URL https://www.saucedemo.com/
-El reto se basará en hacer la toma de requerimientos
-propuestos y automatizar esas pruebas E2E en la web dada.
-Para ello se necesitará crear un repositorio online en el servicio
-que se prefiera (Gitlab, Github...) donde se subirá el código
-resultante de la prueba. 
+The challenge will be based on doing the proposed requirements gathering and automating
+and automate those E2E tests on the given web.
+To do this you will need to create an online repository in the preferred service
+of your choice (Gitlab, Github...) where you will upload the code resulting from the
+resulting from the test will be uploaded. 
 
 
-Como se realizará en Python y Selenium, antes de empezar
-deberá asegurarse de que lo tiene instalado y accesible para
-programar.
+As this will be done in Python and Selenium, before you begin
+you should make sure that you have it installed and accessible for programming.
+programming.
 
 
-La prueba consiste en documentar y automatizar las features en
-la web: https://www.saucedemo.com/
+The test consists of documenting and automating the features in
+the web: https://www.saucedemo.com/
 
 ## Installation
 - The code has been tested on Python 3.9.4 and Windows 11
